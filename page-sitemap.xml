@@ -1,530 +1,529 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://pbintegracoes.com/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://pbintegracoes.com/</loc>
+		<loc>/</loc>
 		<lastmod>2024-09-03T01:34:15+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/08/woo-logo-small.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/woo-logo-small.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/magento1-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento1-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/magento2-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento2-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/08/mulheres.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/mulheres.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/4f13715449a9d3873a0c4d13eae0ecad_Parceirooficial10anosopt-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/4f13715449a9d3873a0c4d13eae0ecad_Parceirooficial10anosopt-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2022/04/home14-chooseus-image.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/04/home14-chooseus-image.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/my-account/</loc>
+		<loc>/my-account/</loc>
 		<lastmod>2020-05-19T11:22:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/contact/</loc>
+		<loc>/contact/</loc>
 		<lastmod>2023-03-16T05:58:55+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2020/03/05_Logo.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/03/05_Logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2020/03/06_Logo.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/03/06_Logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2020/03/04_Logo.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/03/04_Logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2020/03/05_Logo.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/03/05_Logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2020/03/06_Logo.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/03/06_Logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2020/03/04_Logo.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/03/04_Logo.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/download-wizard/</loc>
+		<loc>/download-wizard/</loc>
 		<lastmod>2024-08-17T22:54:50+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/magento2-300x300.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento2-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/sandbox/</loc>
+		<loc>/sandbox/</loc>
 		<lastmod>2024-08-18T00:20:51+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/trabalhando.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/trabalhando.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/sandbox/index/</loc>
+		<loc>/sandbox/index/</loc>
 		<lastmod>2024-08-18T00:27:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/sandbox/created2/</loc>
+		<loc>/sandbox/created2/</loc>
 		<lastmod>2024-08-18T00:29:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/sandbox/created/</loc>
+		<loc>/sandbox/created/</loc>
 		<lastmod>2024-08-18T00:30:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/terms/</loc>
+		<loc>/terms/</loc>
 		<lastmod>2024-08-18T00:52:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/status/</loc>
+		<loc>/status/</loc>
 		<lastmod>2024-08-18T01:09:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/connect/</loc>
+		<loc>/connect/</loc>
 		<lastmod>2024-08-18T01:14:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/connect/passo2/</loc>
+		<loc>/connect/passo2/</loc>
 		<lastmod>2024-08-18T01:21:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/connect/sucesso2/</loc>
+		<loc>/connect/sucesso2/</loc>
 		<lastmod>2024-08-18T01:33:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/connect/sucesso/</loc>
+		<loc>/connect/sucesso/</loc>
 		<lastmod>2024-08-18T01:35:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/connect/flex/</loc>
+		<loc>/connect/flex/</loc>
 		<lastmod>2024-08-18T01:43:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/connect/autorizar/index/</loc>
+		<loc>/connect/autorizar/index/</loc>
 		<lastmod>2024-08-18T13:24:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/connect/autorizar/sucesso/</loc>
+		<loc>/connect/autorizar/sucesso/</loc>
 		<lastmod>2024-08-18T13:37:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/pro/created/</loc>
+		<loc>/pro/created/</loc>
 		<lastmod>2024-08-18T14:26:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/pro/app/index/</loc>
+		<loc>/pro/app/index/</loc>
 		<lastmod>2024-08-18T14:31:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/pro/app/created/</loc>
+		<loc>/pro/app/created/</loc>
 		<lastmod>2024-08-18T14:37:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/pro/index/</loc>
+		<loc>/pro/index/</loc>
 		<lastmod>2024-08-18T18:39:05+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/tela-config.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/tela-config.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/connect/index/</loc>
+		<loc>/connect/index/</loc>
 		<lastmod>2024-08-18T21:49:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/magento2/index/</loc>
+		<loc>/magento2/index/</loc>
 		<lastmod>2024-08-18T23:08:27+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/magento1-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento1-150x150.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/magento2/magento/</loc>
+		<loc>/magento2/magento/</loc>
 		<lastmod>2024-08-18T23:14:14+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/magento1-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento1-150x150.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/magento2/wizard/</loc>
+		<loc>/magento2/wizard/</loc>
 		<lastmod>2024-08-18T23:18:41+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/commandline.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/commandline.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/ftpprotocol.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/ftpprotocol.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/magento.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/pagbank_config2.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/pagbank_config2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/config3.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/config3.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/magento2/wizard-legacy/</loc>
+		<loc>/magento2/wizard-legacy/</loc>
 		<lastmod>2024-08-18T23:24:49+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/commandline.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/commandline.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/ftpprotocol.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/ftpprotocol.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/magento.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/woocommerce/wizard/</loc>
+		<loc>/woocommerce/wizard/</loc>
 		<lastmod>2024-08-20T04:55:49+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/08/woo-logo-small.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/woo-logo-small.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/Experimenteonovopluginpagbank1.gif</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/Experimenteonovopluginpagbank1.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/arquivozipe.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/arquivozipe.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/ftpprotocol.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/ftpprotocol.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/Boolean.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/Boolean.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/wordpressenable.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/wordpressenable.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/be606b815ea525a4bb4cdde2b45259b5_wooconfig.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/be606b815ea525a4bb4cdde2b45259b5_wooconfig.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/autorizar/</loc>
+		<loc>/autorizar/</loc>
 		<lastmod>2024-08-20T05:11:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/pro/</loc>
+		<loc>/pro/</loc>
 		<lastmod>2024-08-20T05:26:15+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2022/04/home14-slider.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/04/home14-slider.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/pro/app/</loc>
+		<loc>/pro/app/</loc>
 		<lastmod>2024-08-20T05:30:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/naorecebi/</loc>
+		<loc>/naorecebi/</loc>
 		<lastmod>2024-08-20T05:36:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/doar-com-pagseguro/</loc>
+		<loc>/doar-com-pagseguro/</loc>
 		<lastmod>2024-08-21T02:47:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/faq/</loc>
+		<loc>/faq/</loc>
 		<lastmod>2024-08-21T03:04:13+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2022/04/home14-about-image-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/04/home14-about-image-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2020/10/illustration31-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/10/illustration31-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2020/12/slide12_01-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/12/slide12_01-150x150.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/magento1-legado/</loc>
+		<loc>/magento1-legado/</loc>
 		<lastmod>2024-08-21T04:22:37+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/08/printfirecheckout.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/printfirecheckout.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/demo/</loc>
+		<loc>/demo/</loc>
 		<lastmod>2024-08-21T04:25:45+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/themes/digeco/assets/element/element2.png</image:loc>
+			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/magento2-300x300.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento2-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/themes/digeco/assets/element/element2.png</image:loc>
+			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/themes/digeco/assets/element/element2.png</image:loc>
+			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/vantagens/</loc>
+		<loc>/vantagens/</loc>
 		<lastmod>2024-08-21T04:31:13+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/parceiro.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/parceiro.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/woocommerce/agenteinstala/</loc>
+		<loc>/woocommerce/agenteinstala/</loc>
 		<lastmod>2024-08-21T04:50:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/magento2/</loc>
+		<loc>/magento2/</loc>
 		<lastmod>2024-08-27T02:22:02+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/08/print2-checkout-cartao-1400p.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/print2-checkout-cartao-1400p.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/08/print3-salvar-cartao-1400p.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/print3-salvar-cartao-1400p.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/taxas-diferenciadas.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/taxas-diferenciadas.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/principais-meios-pagamento.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/principais-meios-pagamento.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/magento1/</loc>
+		<loc>/magento1/</loc>
 		<lastmod>2024-08-27T02:22:43+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/banner-pagbank-magento1.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/banner-pagbank-magento1.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/screenshots1.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/screenshots1.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/screenshots2.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/screenshots2.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/screenshots3.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/screenshots3.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/screenshots4.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/screenshots4.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/screenshot5.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/screenshot5.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/screenshot6.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/screenshot6.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/screenshot7.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/screenshot7.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/connect/sandbox/</loc>
+		<loc>/connect/sandbox/</loc>
 		<lastmod>2024-08-28T02:40:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/sobre/</loc>
+		<loc>/sobre/</loc>
 		<lastmod>2024-09-03T03:16:16+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/selo1.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/selo1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/selo2.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/selo2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/selo3.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/selo3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/ricardo.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/ricardo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/magento1-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento1-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/magento2-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento2-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/connect/autorizar/erro-subconta/</loc>
+		<loc>/connect/autorizar/erro-subconta/</loc>
 		<lastmod>2024-09-04T23:48:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/download/</loc>
+		<loc>/download/</loc>
 		<lastmod>2024-09-04T23:55:09+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2020/01/illustration21.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/01/illustration21.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2020/06/illustration10_30.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/06/illustration10_30.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/08/moduloproprio.gif</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/moduloproprio.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2020/01/illustration20.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/01/illustration20.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2022/04/home-15-contact-img.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/04/home-15-contact-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/08/recebendoemail.gif</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/recebendoemail.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/08/chavemodulo1.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/chavemodulo1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/08/chavemodulo2.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/chavemodulo2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2020/01/illustration16.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/01/illustration16.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2022/04/home-15-work-process.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/04/home-15-work-process.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/compare/</loc>
+		<loc>/compare/</loc>
 		<lastmod>2024-10-18T02:24:02+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/magento2-300x300.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento2-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/foto4-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/foto4-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/foto3-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/foto3-150x150.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pbintegracoes.com/woocommerce/</loc>
-		<lastmod>2024-10-18T02:44:50+00:00</lastmod>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/woocommercelogo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/banner-pagbank-1024x332.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/banner-woocommerce1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/banner-woocommerce2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/banner-woocommerce3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/banner-woocommerce4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/banner-woocommerce5.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/banner-woocommerce6.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/banner-woocommerce7.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/10/banner-woocommerce10.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/10/banner-woocommerce9.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/10/banner-woocommerce8.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/08/thiago-andrade-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/foto3-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/imagem-wordpress-1024x595.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://pbintegracoes.com/connect/autorizar/</loc>
+		<loc>/connect/autorizar/</loc>
 		<lastmod>2024-10-18T02:56:08+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/foto4-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/foto4-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://pbintegracoes.com/wp-content/uploads/2024/07/foto3-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/foto3-150x150.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/woocommerce/</loc>
+		<lastmod>2024-11-29T01:26:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/woocommercelogo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner-pagbank-1024x332.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/banner-woocommerce10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/banner-woocommerce9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/banner-woocommerce8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/thiago-andrade-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/foto3-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/imagem-wordpress-1024x595.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
-<!-- XML Sitemap generated by Yoast SEO -->

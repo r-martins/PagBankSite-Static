@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comentários sobre Módulo PagBank para WooCommerce e Magento &#8211; Por Ricardo Martins	</title>
-	<atom:link href="https://pbintegracoes.com/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pbintegracoes.com/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Plugins e módulos PagBank para Magento e WooCommerce. Grátis e de código aberto. Com Desconto nas Taxas. Parceiro oficial desde 2014. Por Ricardo Martins.</description>
-	<lastBuildDate>Fri, 18 Oct 2024 02:56:08 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 Nov 2024 01:26:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
