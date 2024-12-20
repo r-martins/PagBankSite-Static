@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-09-03T01:34:15+00:00</lastmod>
+		<lastmod>2024-12-18T05:58:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/pagbank-icon.png</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/woo-logo-small.png</image:loc>
 		</image:image>
@@ -257,35 +260,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/demo/</loc>
-		<lastmod>2024-08-21T04:25:45+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/magento2-300x300.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/vantagens/</loc>
-		<lastmod>2024-08-21T04:31:13+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/parceiro.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/woocommerce/agenteinstala/</loc>
 		<lastmod>2024-08-21T04:50:24+00:00</lastmod>
 	</url>
@@ -303,37 +277,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/principais-meios-pagamento.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/magento1/</loc>
-		<lastmod>2024-08-27T02:22:43+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/banner-pagbank-magento1.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/screenshots1.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/screenshots2.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/screenshots3.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/screenshots4.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/screenshot5.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/screenshot6.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/screenshot7.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -459,8 +402,34 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/connect/sandbox/</loc>
+		<lastmod>2024-12-05T06:49:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/vantagens/</loc>
+		<lastmod>2024-12-18T04:20:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/parceiro.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/thiago-andrade-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/woocommerce/</loc>
-		<lastmod>2024-11-29T01:26:33+00:00</lastmod>
+		<lastmod>2024-12-18T04:28:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/woocommercelogo.png</image:loc>
 		</image:image>
@@ -518,12 +487,58 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/foto3-150x150.png</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>/magento1/</loc>
+		<lastmod>2024-12-18T04:30:01+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/imagem-wordpress-1024x595.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/banner-pagbank-magento1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/screenshots1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/screenshots2.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/screenshots3.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/screenshots4.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/screenshot5.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/screenshot6.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/screenshot7.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/connect/sandbox/</loc>
-		<lastmod>2024-12-05T06:49:25+00:00</lastmod>
+		<loc>/demo/</loc>
+		<lastmod>2024-12-18T04:31:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/magento2-300x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
+		</image:image>
 	</url>
 </urlset>

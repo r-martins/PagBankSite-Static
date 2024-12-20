@@ -11,11 +11,11 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Plugins e módulos PagBank para Magento e WooCommerce. Grátis e de código aberto. Com Desconto nas Taxas. Parceiro oficial desde 2014. Por Ricardo Martins.</description>
-	<lastBuildDate>Thu, 05 Dec 2024 06:49:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Dec 2024 05:58:07 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 </channel>
 </rss>
