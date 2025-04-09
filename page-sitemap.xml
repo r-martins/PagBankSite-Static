@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-04-07T04:54:58+00:00</lastmod>
+		<lastmod>2025-04-09T03:27:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/pagbank-icon.png</image:loc>
 		</image:image>
@@ -521,8 +521,30 @@
 		<lastmod>2025-03-27T00:12:32+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/logos-icons-pagbank/</loc>
+		<lastmod>2025-04-07T04:28:56+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/6.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/connect/autorizar/</loc>
-		<lastmod>2025-04-03T01:44:03+00:00</lastmod>
+		<lastmod>2025-04-09T04:34:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
 		</image:image>
@@ -543,28 +565,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/foto3-150x150.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/logos-icons-pagbank/</loc>
-		<lastmod>2025-04-07T04:28:56+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/6.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/5.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/2.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
