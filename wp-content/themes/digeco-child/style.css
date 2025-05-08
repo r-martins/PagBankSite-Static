@@ -1,0 +1,98 @@
+/*
+Template:       digeco
+Theme Name:     Digeco Child Theme
+Theme URI:      http://radiustheme.com/demo/wordpress/digeco
+Author:         RadiusTheme
+Author URI:     http://radiustheme.com
+Description:    Digeco is Startup Agency WordPress Theme.
+Version:        1.0
+Text Domain:    Digeco
+Tags: left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, translation-ready
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/* GLOBAL */
+.section-title-style1 .no-animation .heading-icon .dashed1 {
+    stroke-dasharray: 100;
+    stroke: #1bb99a;
+}
+
+code {
+	color: #7A7A7A;
+    background-color: #eee;
+    border-radius: 3px;
+    font-family: courier, monospace;
+    padding: 0 3px;
+}
+
+
+/* FORM */
+.small {
+    font-size: 80%;
+    line-height: 18px;
+}
+
+.form-group p {
+    margin-bottom: 5px;
+}
+
+/* PÁGINA /woocommerce */
+.rtin-testimonial-2 .rtin-item p {
+    width: 50%;
+}
+
+/* PÁGINA /compare */
+.taxbox-1.elementor-widget.elementor-widget-rt-info-box .info-box-default:hover .rtin-text .bd-content-element  {
+    color: #ffffff;
+}
+
+.elementor-element.elementor-element-379bd6b.taxbox-1.elementor-widget.elementor-widget-rt-info-box:hover i.fas.fa-smile-wink {
+    color: #22B9C7;
+}
+
+.elementor-element.elementor-element-2cf8c47.taxbox-2.elementor-widget.elementor-widget-rt-info-box:hover i.fas.fa-smile-wink {
+    color: #22B9C7;
+}
+
+.taxbox-1 .info-box-button a, .taxbox-2 .info-box-button a {
+    border: 1px solid;
+    padding: 10px 15px;
+}
+
+.taxbox-1:hover .info-box-button a {
+    border-color: #fff !important;
+    color: #fff !important;
+}
+
+/* PÁGINA /terms */
+#terms-iframe, #terms-iframe .elementor-widget, #terms-iframe .elementor-widget-container {
+    height: 100%;
+}
+
+/*PÁGINA /magento2/index */
+.page-id-5509 #primary.content-area {
+    padding-bottom: 0;
+}
+
+/*PÁGINA /magento2/magento */
+.page-id-5556 #primary.content-area {
+    padding-bottom: 0;
+}
+
+/* FOOTER */
+footer .footer-top-area .widget ul.menu li a:before {
+	display: none;
+}
+
+footer .menu {
+    line-height: 16px;
+}
+
+footer #footer-6 .footer-top-area ul li a {
+    color: white;
+}
+
+#footer-6.footer-area .footer-bottom-area .copyright_wrap {
+	justify-content: center;
+}
