@@ -5,21 +5,48 @@ console.debug('Referer Recorder script loaded.');
 const referer = document.referrer;
 
 // log referer domain only
-const refererDomain = document.referrer.split('/')[2];
+const referer_domain = document.referrer.split('/')[2];
 
+
+// utms to log
 //log utm_* parameters
+const cookies_to_create = ['referer', 'referer_domain', 'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content'];
+let should_create = true;
+for (let i = 0; i < cookies_to_create.length; i++) {
+    //if one of the cookie exists, do not create anything
+    if (getCookie(cookies_to_create[i]) !== null) {
+        // console.debug('Cookie ' + cookies_to_create[i] + ' already exists. Not creating.');
+        should_create = false;
+        break;
+    }
+}
+
 const utm_source = getParameterByName('utm_source');
 const utm_medium = getParameterByName('utm_medium');
 const utm_campaign = getParameterByName('utm_campaign');
 const utm_term = getParameterByName('utm_term');
 const utm_content = getParameterByName('utm_content');
+
+/*
 createCookieIfNotExists('referer', referer, 30);
-createCookieIfNotExists('referer_domain', refererDomain, 30);
+createCookieIfNotExists('referer_domain', referer_domain, 30);
 createCookieIfNotExists('utm_source', utm_source, 30);
 createCookieIfNotExists('utm_medium', utm_medium, 30);
 createCookieIfNotExists('utm_campaign', utm_campaign, 30);
 createCookieIfNotExists('utm_term', utm_term, 30);
 createCookieIfNotExists('utm_content', utm_content, 30);
+*/
+
+
+if (should_create) {
+    console.debug('Creating cookies.');
+    for (let i = 0; i < cookies_to_create.length; i++) {
+        if (getCookie(cookies_to_create[i]) === null) {
+            // console.debug('Creating cookie ' + cookies_to_create[i]);
+            createCookieIfNotExists(cookies_to_create[i], eval(cookies_to_create[i]), 30);
+        }
+    }
+}
 
 // get URL parameter by name
 function getParameterByName(name, url) {
