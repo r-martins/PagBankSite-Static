@@ -552,8 +552,19 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/zapier/</loc>
+		<lastmod>2025-06-25T05:08:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/wix/</loc>
+		<lastmod>2025-07-02T03:00:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/07/Wix.com_Logo-300x81.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/connect/autorizar/</loc>
-		<lastmod>2025-05-18T23:16:34+00:00</lastmod>
+		<lastmod>2025-07-02T06:00:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
 		</image:image>
@@ -574,17 +585,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/04/giovani-150x150-png.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/zapier/</loc>
-		<lastmod>2025-06-25T05:08:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/wix/</loc>
-		<lastmod>2025-07-02T03:00:54+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/07/Wix.com_Logo-300x81.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
