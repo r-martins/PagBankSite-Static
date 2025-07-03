@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-04-28T01:28:10+00:00</lastmod>
+		<lastmod>2025-07-03T02:58:58+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/pagbank-icon.png</image:loc>
 		</image:image>
@@ -14,6 +14,12 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/magento2-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/07/wix-rounded-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/07/gohighlevel-logo-e1751511465741-150x150.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/mulheres.png</image:loc>
@@ -460,8 +466,68 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/magento1/</loc>
+		<lastmod>2025-05-18T23:09:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner-pagbank-magento1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/screenshots1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/screenshots2.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/screenshots3.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/screenshots4.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/screenshot5.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/screenshot6.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/screenshot7.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/zapier/</loc>
+		<lastmod>2025-06-25T05:08:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/connect/autorizar/</loc>
+		<lastmod>2025-07-02T06:00:23+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/rafael-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/giovani-150x150-png.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/woocommerce/</loc>
-		<lastmod>2025-05-18T23:05:25+00:00</lastmod>
+		<lastmod>2025-07-03T03:54:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/woocommercelogo.png</image:loc>
 		</image:image>
@@ -521,70 +587,13 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/magento1/</loc>
-		<lastmod>2025-05-18T23:09:03+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/banner-pagbank-magento1.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/screenshots1.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/screenshots2.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/screenshots3.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/screenshots4.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/screenshot5.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/screenshot6.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/screenshot7.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/zapier/</loc>
-		<lastmod>2025-06-25T05:08:16+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/wix/</loc>
-		<lastmod>2025-07-02T03:00:54+00:00</lastmod>
+		<lastmod>2025-07-03T04:11:21+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/07/Wix.com_Logo-300x81.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/connect/autorizar/</loc>
-		<lastmod>2025-07-02T06:00:23+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/rafael-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/giovani-150x150-png.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/4f13715449a9d3873a0c4d13eae0ecad_Parceirooficial10anosopt-150x150.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
