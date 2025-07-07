@@ -501,31 +501,6 @@
 		<lastmod>2025-06-25T05:08:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/connect/autorizar/</loc>
-		<lastmod>2025-07-02T06:00:23+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/rafael-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/giovani-150x150-png.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/woocommerce/</loc>
 		<lastmod>2025-07-03T03:54:35+00:00</lastmod>
 		<image:image>
@@ -594,6 +569,31 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/4f13715449a9d3873a0c4d13eae0ecad_Parceirooficial10anosopt-150x150.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/connect/autorizar/</loc>
+		<lastmod>2025-07-07T05:56:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/rafael-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/giovani-150x150-png.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
