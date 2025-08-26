@@ -506,40 +506,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/compare/</loc>
-		<lastmod>2025-07-30T22:04:58+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/magento2-300x300.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/rafael-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/giovani-150x150-png.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/doar-com-pagseguro/</loc>
 		<lastmod>2025-08-11T23:17:53+00:00</lastmod>
 	</url>
@@ -597,6 +563,40 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/screenshot7.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/compare/</loc>
+		<lastmod>2025-08-26T07:16:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/magento2-300x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/rafael-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/giovani-150x150-png.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
