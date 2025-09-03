@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/depoimentos/</loc>
+		<loc>/blog/depoimentos/</loc>
 		<lastmod>2025-04-28T01:18:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/depoimentos/suporte-e-funcionamento-com-excelencia/</loc>
+		<loc>/blog/depoimentos/suporte-e-funcionamento-com-excelencia/</loc>
 		<lastmod>2024-08-19T03:29:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/thiago-andrade.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/depoimentos/robert-bruce-2/</loc>
+		<loc>/blog/depoimentos/robert-bruce-2/</loc>
 		<lastmod>2024-08-19T03:29:55+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/foto1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/depoimentos/cassie-ventura/</loc>
+		<loc>/blog/depoimentos/cassie-ventura/</loc>
 		<lastmod>2024-08-19T03:30:11+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/foto2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/depoimentos/kate-kingston/</loc>
+		<loc>/blog/depoimentos/kate-kingston/</loc>
 		<lastmod>2024-08-19T03:30:30+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/foto3.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/depoimentos/robert-bruce/</loc>
+		<loc>/blog/depoimentos/robert-bruce/</loc>
 		<lastmod>2024-08-19T03:30:48+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/foto4.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/depoimentos/receios/</loc>
+		<loc>/blog/depoimentos/receios/</loc>
 		<lastmod>2024-10-17T07:04:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/depoimentos/otimo/</loc>
+		<loc>/blog/depoimentos/otimo/</loc>
 		<lastmod>2024-10-18T01:31:02+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/leosantis.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/depoimentos/uso-em-todos-meus-clientes/</loc>
+		<loc>/blog/depoimentos/uso-em-todos-meus-clientes/</loc>
 		<lastmod>2025-02-17T07:03:04+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/welliton.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/depoimentos/perfeito/</loc>
+		<loc>/blog/depoimentos/perfeito/</loc>
 		<lastmod>2025-04-28T01:16:31+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/04/giovani.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/depoimentos/melhor/</loc>
+		<loc>/blog/depoimentos/melhor/</loc>
 		<lastmod>2025-04-28T01:18:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/04/rafael.jpeg</image:loc>
