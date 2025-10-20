@@ -2,11 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>/post-sitemap.xml</loc>
-		<lastmod>2025-10-09T05:30:55+00:00</lastmod>
+		<lastmod>2025-10-20T00:56:48+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>/page-sitemap.xml</loc>
-		<lastmod>2025-10-10T01:56:04+00:00</lastmod>
+		<lastmod>2025-10-14T04:36:48+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>/digeco_testim-sitemap.xml</loc>
@@ -14,7 +14,7 @@
 	</sitemap>
 	<sitemap>
 		<loc>/category-sitemap.xml</loc>
-		<lastmod>2025-10-09T05:30:55+00:00</lastmod>
+		<lastmod>2025-10-20T00:56:48+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>/post_tag-sitemap.xml</loc>
