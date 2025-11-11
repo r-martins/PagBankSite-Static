@@ -97,10 +97,6 @@
 		<lastmod>2024-08-18T00:52:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/status/</loc>
-		<lastmod>2024-08-18T01:09:13+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/connect/</loc>
 		<lastmod>2024-08-18T01:14:05+00:00</lastmod>
 	</url>
@@ -447,64 +443,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/woocommerce/</loc>
-		<lastmod>2025-07-30T04:56:23+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/woocommercelogo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/rafael-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/giovani-150x150-png.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/welliton-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/banner-plugin-woocommerce-pagbank-transp-1024x332.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/07/screenshot-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce5.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce6.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce7.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/banner-woocommerce10.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/banner-woocommerce9.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/07/screenshot-8.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/compare/</loc>
 		<lastmod>2025-08-28T08:07:59+00:00</lastmod>
 		<image:image>
@@ -595,10 +533,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/doar-com-pagseguro/</loc>
-		<lastmod>2025-09-22T06:00:29+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/connect/sandbox/</loc>
 		<lastmod>2025-10-10T05:15:27+00:00</lastmod>
 	</url>
@@ -613,6 +547,72 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/10/resultado-n8n-exemplo-creditCardChargePagBank-1-1024x299.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/doar-com-pagseguro/</loc>
+		<lastmod>2025-11-04T00:32:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/status/</loc>
+		<lastmod>2025-11-07T03:36:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/woocommerce/</loc>
+		<lastmod>2025-11-11T06:48:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/woocommercelogo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/rafael-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/giovani-150x150-png.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/welliton-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/banner-plugin-woocommerce-pagbank-transp-1024x332.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/07/screenshot-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/banner-woocommerce10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/banner-woocommerce9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/07/screenshot-8.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
