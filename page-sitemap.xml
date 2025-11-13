@@ -537,19 +537,6 @@
 		<lastmod>2025-10-10T05:15:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/n8n/</loc>
-		<lastmod>2025-10-14T04:36:48+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/10/logo-n8n.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/10/n8n-pagbank.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/10/resultado-n8n-exemplo-creditCardChargePagBank-1-1024x299.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/doar-com-pagseguro/</loc>
 		<lastmod>2025-11-04T00:32:45+00:00</lastmod>
 	</url>
@@ -559,7 +546,7 @@
 	</url>
 	<url>
 		<loc>/woocommerce/</loc>
-		<lastmod>2025-11-11T06:48:38+00:00</lastmod>
+		<lastmod>2025-11-13T01:39:17+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/woocommercelogo.png</image:loc>
 		</image:image>
@@ -613,6 +600,19 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/07/screenshot-8.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/n8n/</loc>
+		<lastmod>2025-11-13T06:55:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/10/logo-n8n.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/10/n8n-pagbank.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/10/resultado-n8n-exemplo-creditCardChargePagBank-1-1024x299.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
