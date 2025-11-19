@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/depoimentos/</loc>
-		<lastmod>2025-04-28T01:18:22+00:00</lastmod>
+		<lastmod>2025-11-18T23:43:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog/depoimentos/suporte-e-funcionamento-com-excelencia/</loc>
@@ -72,6 +72,13 @@
 		<lastmod>2025-04-28T01:18:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/04/rafael.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/depoimentos/melhor-plugin-do-brasil/</loc>
+		<lastmod>2025-11-18T23:43:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/ana-flavia-testimonial.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
