@@ -398,10 +398,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/connect/autorizar/erro-conta-comprador/</loc>
-		<lastmod>2025-07-21T04:19:04+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/demo/</loc>
 		<lastmod>2025-07-30T01:57:19+00:00</lastmod>
 		<image:image>
@@ -507,8 +503,25 @@
 		<lastmod>2025-11-07T03:36:25+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/faq/</loc>
+		<lastmod>2025-11-19T00:35:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/home14-about-image-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/10/illustration31-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/12/slide12_01-150x150.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/connect/autorizar/erro-conta-comprador/</loc>
+		<lastmod>2025-12-05T03:10:42+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/n8n/</loc>
-		<lastmod>2025-11-13T06:55:58+00:00</lastmod>
+		<lastmod>2025-12-18T01:48:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/10/logo-n8n.svg</image:loc>
 		</image:image>
@@ -520,10 +533,38 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/connect/autorizar/</loc>
+		<lastmod>2026-01-22T23:11:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/rafael-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/ana-flavia-testimonial-150x150-png.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/woocommerce/</loc>
-		<lastmod>2025-11-19T00:03:07+00:00</lastmod>
+		<lastmod>2026-01-22T23:17:53+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/woocommercelogo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/leandro-150x150-png.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/11/ana-flavia-testimonial-150x150-png.webp</image:loc>
@@ -539,9 +580,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/banner-plugin-woocommerce-pagbank-transp-1024x332.png</image:loc>
@@ -575,44 +613,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/07/screenshot-8.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/faq/</loc>
-		<lastmod>2025-11-19T00:35:20+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/home14-about-image-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/10/illustration31-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/12/slide12_01-150x150.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/connect/autorizar/</loc>
-		<lastmod>2025-11-19T02:08:06+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/rafael-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/ana-flavia-testimonial-150x150-png.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
