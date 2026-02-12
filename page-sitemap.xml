@@ -398,34 +398,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/demo/</loc>
-		<lastmod>2025-07-30T01:57:19+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/magento2-300x300.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/07/gohighlevel-logo-e1751511465741-300x283.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/compare/</loc>
 		<lastmod>2025-08-28T08:07:59+00:00</lastmod>
 		<image:image>
@@ -613,6 +585,34 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/07/screenshot-8.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/demo/</loc>
+		<lastmod>2026-02-12T05:58:12+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/magento2-300x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/07/gohighlevel-logo-e1751511465741-300x283.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
