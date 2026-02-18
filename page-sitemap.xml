@@ -244,22 +244,6 @@
 		<lastmod>2024-08-21T04:50:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/magento2/</loc>
-		<lastmod>2024-08-27T02:22:02+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/print2-checkout-cartao-1400p.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/print3-salvar-cartao-1400p.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/taxas-diferenciadas.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/principais-meios-pagamento.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/sobre/</loc>
 		<lastmod>2024-09-03T03:16:16+00:00</lastmod>
 		<image:image>
@@ -613,6 +597,22 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/themes/digeco/assets/element/element2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/magento2/</loc>
+		<lastmod>2026-02-13T23:28:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/print2-checkout-cartao-1400p.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/print3-salvar-cartao-1400p.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/taxas-diferenciadas.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/principais-meios-pagamento.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
