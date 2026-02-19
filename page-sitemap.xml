@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2026-02-18T02:20:44+00:00</lastmod>
+		<lastmod>2026-02-19T04:45:03+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/pagbank-icon.png</image:loc>
 		</image:image>
@@ -28,7 +28,7 @@
 			<image:loc>/wp-content/uploads/2024/08/mulheres.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/07/Parceiro-oficial-10-anos-opt-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2026/02/Parceiro-oficial-12-anos-opt450-150x150.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/home14-chooseus-image.png</image:loc>
@@ -244,31 +244,6 @@
 		<lastmod>2024-08-21T04:50:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/sobre/</loc>
-		<lastmod>2024-09-03T03:16:16+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/selo1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/selo2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/selo3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/ricardo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/magento1-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/magento2-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/connect/autorizar/erro-subconta/</loc>
 		<lastmod>2024-09-04T23:48:44+00:00</lastmod>
 	</url>
@@ -382,40 +357,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/compare/</loc>
-		<lastmod>2025-08-28T08:07:59+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/magento2-300x300.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/rafael-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/giovani-150x150-png.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/magento1/</loc>
 		<lastmod>2025-09-01T01:31:16+00:00</lastmod>
 		<image:image>
@@ -476,19 +417,6 @@
 		<lastmod>2025-12-05T03:10:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/n8n/</loc>
-		<lastmod>2025-12-18T01:48:40+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/10/logo-n8n.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/10/n8n-pagbank.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/10/resultado-n8n-exemplo-creditCardChargePagBank-1-1024x299.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/connect/autorizar/</loc>
 		<lastmod>2026-01-22T23:11:06+00:00</lastmod>
 		<image:image>
@@ -514,8 +442,62 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/magento2/</loc>
+		<lastmod>2026-02-13T23:28:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/print2-checkout-cartao-1400p.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/print3-salvar-cartao-1400p.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/taxas-diferenciadas.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/principais-meios-pagamento.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/n8n/</loc>
+		<lastmod>2026-02-19T04:37:08+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/10/logo-n8n.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/10/n8n-pagbank.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/10/resultado-n8n-exemplo-creditCardChargePagBank-1-1024x299.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/sobre/</loc>
+		<lastmod>2026-02-19T04:58:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/selo1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/selo2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/selo3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/ricardomartins-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/magento1-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/magento2-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/woocommerce/</loc>
-		<lastmod>2026-01-22T23:17:53+00:00</lastmod>
+		<lastmod>2026-02-19T05:09:28+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/woocommercelogo.png</image:loc>
 		</image:image>
@@ -573,7 +555,7 @@
 	</url>
 	<url>
 		<loc>/demo/</loc>
-		<lastmod>2026-02-12T05:58:12+00:00</lastmod>
+		<lastmod>2026-02-19T05:12:53+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
 		</image:image>
@@ -600,19 +582,46 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/magento2/</loc>
-		<lastmod>2026-02-13T23:28:18+00:00</lastmod>
+		<loc>/compare/</loc>
+		<lastmod>2026-02-19T05:20:22+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/print2-checkout-cartao-1400p.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/03703443143fa46fb5270f395b18b55e_woo_logo-300x168.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/print3-salvar-cartao-1400p.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento1-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/taxas-diferenciadas.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/magento2-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/principais-meios-pagamento.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/10/n8n-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/07/gohighlevel-logo-e1751511465741-300x283.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/revslider/slider-home-1-16/banner13_shape2-300x226.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/foto2-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/129081b8f1039e6eeaec695892ddb900-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/foto1-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/rafael-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/ana-flavia-testimonial-150x150-png.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leo-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
