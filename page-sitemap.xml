@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2026-03-03T05:26:41+00:00</lastmod>
+		<lastmod>2026-04-14T02:00:13+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/pagbank-icon.png</image:loc>
 		</image:image>
@@ -28,7 +28,10 @@
 			<image:loc>/wp-content/uploads/2026/02/Parceiro-oficial-12-anos-opt450-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/home14-chooseus-image.png</image:loc>
+			<image:loc>/wp-content/uploads/2026/04/5stars-1.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/rede-pagbank3.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -492,64 +495,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/woocommerce/</loc>
-		<lastmod>2026-02-26T05:01:05+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/woocommercelogo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/leandro-150x150-png.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/11/ana-flavia-testimonial-150x150-png.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/rafael-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/giovani-150x150-png.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/welliton-150x150-jpeg.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/banner-plugin-woocommerce-pagbank-transp-1024x332.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/07/screenshot-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce5.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce6.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/banner-woocommerce7.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/banner-woocommerce10.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/banner-woocommerce9.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/07/screenshot-8.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/pagbank-ldp-lead/</loc>
 		<lastmod>2026-03-03T04:49:49+00:00</lastmod>
 		<image:image>
@@ -632,6 +577,88 @@
 	<url>
 		<loc>/connect/autorizar/erro-conta-comprador/</loc>
 		<lastmod>2026-03-24T21:48:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/woocommerce/</loc>
+		<lastmod>2026-04-14T06:03:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/woocommercelogo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/banner-plugin-woocommerce-pagbank-transp-1024x332.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/leandro-150x150-png.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/ana-flavia-testimonial-150x150-png.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/rafael-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/giovani-150x150-png.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/welliton-150x150-jpeg.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/leosantis-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/screenshot-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/screenshot-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/screenshot-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/screenshot-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/screenshot-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/screenshot-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/screenshot-8-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/screenshot-8-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/screenshot-8-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/screenshot-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/screenshot-5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/screenshot-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/screenshot-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/3d-secure-habilitar-300x33.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/desconto-pix-300x53.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/habilitar-recorrencia-woo-295x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/rota-alternativa-notificacoes-pagbank-300x38.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/04/enviofacil-icon.png</image:loc>
+		</image:image>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
