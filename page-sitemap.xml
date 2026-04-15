@@ -569,8 +569,18 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/wix/</loc>
+		<lastmod>2026-04-15T04:11:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/07/Wix.com_Logo-300x81.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/4f13715449a9d3873a0c4d13eae0ecad_Parceirooficial10anosopt-150x150.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/woocommerce/</loc>
-		<lastmod>2026-04-15T03:52:35+00:00</lastmod>
+		<lastmod>2026-04-15T04:26:38+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/woocommercelogo.png</image:loc>
 		</image:image>
@@ -648,16 +658,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/04/enviofacil-icon.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/wix/</loc>
-		<lastmod>2026-04-15T04:11:21+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/07/Wix.com_Logo-300x81.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/4f13715449a9d3873a0c4d13eae0ecad_Parceirooficial10anosopt-150x150.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
