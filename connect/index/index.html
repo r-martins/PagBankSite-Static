@@ -194,20 +194,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     })
 </script>
 <!-- End Posthog -->
-
-<!-- OneSignal -->
-<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
-<script>window.OneSignal = window.OneSignalDeferred || [];
-  window.OneSignal.push(async function(OneSignal) {
-    await OneSignal.init({
-      appId: "6bdd6f41-96b7-46f1-93ae-4b31c69e2d50",
-      safari_web_id: "web.onesignal.auto.44e6ca0d-bbca-461f-908e-69d9a6be2a2a",
-      notifyButton: {
-        enable: true,
-      },
-    });
-  });</script>
-<!-- End OneSignal --><link rel="icon" href="/wp-content/uploads/2024/08/pagbank-icon.png" sizes="32x32">
+<link rel="icon" href="/wp-content/uploads/2024/08/pagbank-icon.png" sizes="32x32">
 <link rel="icon" href="/wp-content/uploads/2024/08/pagbank-icon.png" sizes="192x192">
 <link rel="apple-touch-icon" href="/wp-content/uploads/2024/08/pagbank-icon.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2024/08/pagbank-icon.png">
@@ -645,7 +632,19 @@ por e-mail</a><br>
             m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
         })(window,document,'script','https://mtc.pbintegracoes.com/mtc.js','mt');
         mt('send', 'pageview');</script>
-<!-- End MTC --><script type="text/javascript" src="/wp-content/plugins/referer-recorder/js/referer-recorder.js" id="referer-recorder-script-js"></script>
+<!-- End MTC -->
+
+<!-- OneSignal -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(async function (OneSignal) {
+    await OneSignal.init({
+      appId: "6bdd6f41-96b7-46f1-93ae-4b31c69e2d50",
+      safari_web_id: "web.onesignal.auto.44e6ca0d-bbca-461f-908e-69d9a6be2a2a",
+      notifyButton: { enable: true },
+    });
+  });</script>
+<!-- End OneSignal --><script type="text/javascript" src="/wp-content/plugins/referer-recorder/js/referer-recorder.js" id="referer-recorder-script-js"></script>
 <script type="text/javascript" src="/wp-content/themes/digeco/assets/js/isotope.pkgd.min.js" id="isotope-pkgd-js"></script>
 <script type="text/javascript" src="/wp-content/themes/digeco/assets/js/popper.js" id="popper-js"></script>
 <script type="text/javascript" src="/wp-content/themes/digeco/assets/js/bootstrap.min.js" id="bootstrap-js"></script>
